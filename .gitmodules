@@ -1,0 +1,3 @@
+[submodule "hugo-travelify-theme"]
+	path = hugo-travelify-theme
+	url = https://github.com/balaramadurai/hugo-travelify-theme.git
